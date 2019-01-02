@@ -20,6 +20,8 @@
 
 			<spring:url value="/usuario/cadastro" var="cadastro"/>
 			<a class="btn btn-default" href="${cadastro }">Novo Usuário</a>
+			
+			<a class="btn btn-default" href="#">Novo Produto</a>
     	</div>
     	<hr>
     	
